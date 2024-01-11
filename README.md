@@ -15,4 +15,9 @@
 
 3. [Guía Markdown](https://tutorialmarkdown.com/guia "Guía Markdown")
 
-4.
+4. ¿Cómo crear alias en git?
+   - Creamos un alias para recortar nuestro comando de git push
+     - <b>git config --global alias.pushall 'push -u origin main'</b>
+     - De ahora en adelante podremos reemplazar toda la línea de comandos entre comillas simples por <b>git pushall</b>
+     - Si queremos ver los alias que hempos creado ejecutamos lo siguiente
+     - <b>git config --global --get-regexp alias</b>
