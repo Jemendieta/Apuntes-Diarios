@@ -21,3 +21,6 @@
      - De ahora en adelante podremos reemplazar toda la línea de comandos entre comillas simples por <b>git pushall</b>
      - Si queremos ver los alias que hempos creado ejecutamos lo siguiente
      - <b>git config --global --get-regexp alias</b>
+5. La nueva forma de declarar media queries.
+   ![Media Queries](img/media-queries.jpg)
+6.
