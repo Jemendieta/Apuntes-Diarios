@@ -22,5 +22,7 @@
      - Si queremos ver los alias que hempos creado ejecutamos lo siguiente
      - <b>git config --global --get-regexp alias</b>
 5. La nueva forma de declarar media queries.
-   ![Media Queries](img/media-queries.jpg)
-6.
+   ![Media Queries](img/media-queries.jpg).
+
+6. El mejor curso práctico de Flexbox está en el siguiente enlace.
+   [Flexbox](https://www.youtube.com/playlist?list=PLiyWNoCa29IIB_LuV8JUDVF9OpuVNT04l "Cursos en youtube")
