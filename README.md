@@ -18,7 +18,8 @@
 4. ¿Cómo crear alias en git?
    - Creamos un alias para recortar nuestro comando de git push
      - <b>git config --global alias.pushall 'push -u origin main'</b>
-     - De ahora en adelante podremos reemplazar toda la línea de comandos entre comillas simples por <b>git pushall</b>
+     - <b>git config --global alias.lodag 'log --oneline --decorate --all --graph'</b>
+     - De ahora en adelante podremos reemplazar toda la línea de comandos entre comillas simples por <b>git pushall y git lodag</b>
      - Si queremos ver los alias que hempos creado ejecutamos lo siguiente
      - <b>git config --global --get-regexp alias</b>
 5. La nueva forma de declarar media queries.
